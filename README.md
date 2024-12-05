@@ -4,26 +4,24 @@ FlexiStake is a decentralized liquid staking platform that allows users to stake
 
 ## Features
 - **Liquid Staking**: Stake your Ethereum and receive liquid tokens that represent your staked ETH.
-- **DeFi Integration**: Use your staked assets in DeFi applications while earning staking rewards.
-- **Decentralized**: Powered by smart contracts and decentralized protocols.
-  
-## How to Use
+- **DeFi Integration**: Use your staked assets in DeFi applications while continuing to earn staking rewards.
+- **Decentralized**: Powered by Ethereum smart contracts, ensuring the platform is fully decentralized and secure.
 
-1. **Install Dependencies**:
-   - If you're using Node.js, make sure you have Node.js installed. You can install dependencies with:
-     ```bash
-     npm install
-     ```
+## Getting Started
 
-2. **Deploy Smart Contracts**:
-   - Deploy the smart contracts to Ethereum testnets/mainnet using the provided scripts.
+To get started with **FlexiStake**, you'll need to set up your development environment and deploy the smart contracts. Follow these instructions to get everything set up:
 
-3. **Use FlexiStake Platform**:
-   - Stake your Ethereum and receive liquid tokens on the platform.
+### Prerequisites
 
-## Contributing
-Feel free to open issues, fork the repository, and submit pull requests! We're happy to have contributors.
+- **Node.js**: Ensure that you have [Node.js](https://nodejs.org/) installed. If not, download and install it.
+- **Ethereum Wallet**: Install a wallet like [MetaMask](https://metamask.io/) to interact with the Ethereum network.
+- **Ganache (Optional)**: For testing your smart contracts locally, you can use [Ganache](https://www.trufflesuite.com/ganache).
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details. 
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/FlexiStake.git
+cd FlexiStake
 
