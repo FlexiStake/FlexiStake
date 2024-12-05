@@ -23,5 +23,5 @@ Clone the repository:
 
 ```bash
 
-
-https://github.com/FlexiStake/FlexiStake.git
+git clone https://github.com/FlexiStake/FlexiStake.git
+cd FlexiStake
