@@ -22,6 +22,6 @@ To get started with **FlexiStake**, you'll need to set up your development envir
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/FlexiStake.git
+git clone https://github.com/FlexiStake/FlexiStake.git
 cd FlexiStake
 
