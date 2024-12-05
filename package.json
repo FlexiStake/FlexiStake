@@ -1,0 +1,15 @@
+{
+  "name": "flexistake",
+  "version": "1.0.0",
+  "description": "FlexiStake is a decentralized liquid staking platform that allows users to stake Ethereum (ETH) and receive liquid tokens in return, providing liquidity while still earning staking rewards. The platform enhances the flexibility of staking by enabling users to use staked assets in DeFi applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.22.17"
+  }
+}
